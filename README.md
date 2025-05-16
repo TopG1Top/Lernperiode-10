@@ -13,3 +13,19 @@
 - mit gitlab zusammen arbeiten in branches und mergen
 - wieder nosql starten selbst etwas machen
 - weiter an meiner webseite arbeiten vom letzten mal noch nicht ganz fertig aber schon mal etwas
+
+
+## 09.05
+
+- mit gitlab zusammen arbeiten in branches und mergen mit florian
+- mongodb alles herubterladen
+- weiter an meiner webseite arbeiten vom letzten mal s
+
+## 16.05
+
+- Mongodb hab vergessen etwas herunterzuladen das noch herunterladen dann mongodb testen sowie aufträge machen dazu und alle funktionen testen
+- n8n meinen Bot fertigstellen und etwas neues wieder anfangen
+- weiter an neuer webseite brauche noch idee was und dann kann es los gehen
+
+
+
